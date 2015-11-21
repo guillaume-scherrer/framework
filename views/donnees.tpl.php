@@ -1,0 +1,32 @@
+<table class="table table-hover">
+    <thead>
+      <tr>
+        <th>Identifiant</th>
+        <th>nom</th>
+        <th>prénom</th>
+        <th>Date de naissance</th>
+        <th>tél</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>John</td>
+        <td>Doe</td>
+        <td>john@example.com</td>
+        <td>06/11/1993</td>
+        <td>0604060406</td>
+      </tr>
+      <tr>
+        <td>Mary</td>
+        <td>Moe</td>
+        <td>mary@example.com</td>
+        <td>06/11/1993</td>
+        <td>0604060406</td>
+      </tr>
+      <tr>
+        <td>July</td>
+        <td>Dooley</td>
+        <td>july@example.com</td>
+      </tr>
+    </tbody>
+  </table>
